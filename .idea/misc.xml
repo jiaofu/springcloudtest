@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/eurekaone/pom.xml" />
         <option value="$PROJECT_DIR$/eurekawtwo1/pom.xml" />
         <option value="$PROJECT_DIR$/eurekatwo2/pom.xml" />
+        <option value="$PROJECT_DIR$/teigninfo/pom.xml" />
+        <option value="$PROJECT_DIR$/helloservice/pom.xml" />
       </list>
     </option>
   </component>

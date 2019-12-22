@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/eurekaone/eurekaone.iml" filepath="$PROJECT_DIR$/eurekaone/eurekaone.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekatwo2/eurekatwo2.iml" filepath="$PROJECT_DIR$/eurekatwo2/eurekatwo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/eurekawtwo1/eurekawtwo1.iml" filepath="$PROJECT_DIR$/eurekawtwo1/eurekawtwo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/helloservice/helloservice.iml" filepath="$PROJECT_DIR$/helloservice/helloservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloudtest.iml" filepath="$PROJECT_DIR$/.idea/springcloudtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teigninfo/teigninfo.iml" filepath="$PROJECT_DIR$/teigninfo/teigninfo.iml" />
     </modules>
   </component>
 </project>

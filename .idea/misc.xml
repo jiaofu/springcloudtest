@@ -11,6 +11,9 @@
         <option value="$PROJECT_DIR$/eurekatwo2/pom.xml" />
         <option value="$PROJECT_DIR$/teigninfo/pom.xml" />
         <option value="$PROJECT_DIR$/helloservice/pom.xml" />
+        <option value="$PROJECT_DIR$/feignclient2/pom.xml" />
+        <option value="$PROJECT_DIR$/feiginclient/pom.xml" />
+        <option value="$PROJECT_DIR$/feignweb/pom.xml" />
       </list>
     </option>
   </component>

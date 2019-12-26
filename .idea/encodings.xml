@@ -4,7 +4,10 @@
     <file url="file://$PROJECT_DIR$/eurekaone" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekatwo2" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/eurekawtwo1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feiginclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feignclient1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feignclient2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/feignweb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/helloservice" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/teigninfo" charset="UTF-8" />
   </component>
 </project>

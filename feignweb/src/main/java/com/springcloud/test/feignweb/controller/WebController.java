@@ -4,8 +4,7 @@ package com.springcloud.test.feignweb.controller;
 import com.springcloud.test.feignweb.dto.TestParam;
 import com.springcloud.test.feignweb.server.IMyFeignClient;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 public class WebController {
@@ -26,5 +25,12 @@ public class WebController {
         System.out.println(result);
         return result;
     }
+
+    @RequestMapping(value = "/sys/user" ,method = RequestMethod.GET)
+    public String getUsers() {
+      return   myFeignClient.getUsers();
+    }
+
+
 
 }

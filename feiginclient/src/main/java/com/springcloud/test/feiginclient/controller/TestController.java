@@ -4,6 +4,7 @@ import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
+@RequestMapping("/v1")
 public class TestController {
 
 	@Value("${server.port}")
@@ -16,6 +17,12 @@ public class TestController {
 	@PostMapping("/post")
 	public String post(@RequestBody TestParam testParam) {
 		return "testParam 1" + testParam.toString();
+	}
+
+	@RequestMapping(value = "/sys/user" )
+	public String getUsers() {
+		System.out.println("调用成功！");
+		return "调用成功！";
 	}
 	
 }

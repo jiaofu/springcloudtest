@@ -7,7 +7,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.*;
 
 @Component
-@FeignClient(value = "eureka-server")
+@FeignClient(value = "feign-client")
 public interface IMyFeignClient {
     @RequestMapping(value = "/v1/{id}",method = RequestMethod.GET)
     public String test(@PathVariable("id") Long id);

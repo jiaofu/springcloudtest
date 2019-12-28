@@ -2,7 +2,7 @@ server:
   port: 9031
 spring:
   application:
-    name: feign-client2
+    name: feign-client
 eureka: 
   client:
     service-url:

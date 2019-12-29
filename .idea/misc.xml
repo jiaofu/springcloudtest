@@ -14,6 +14,7 @@
         <option value="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/pom.xml" />
         <option value="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonserver/pom.xml" />
         <option value="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/pom.xml" />
+        <option value="$PROJECT_DIR$/sspringCloud_Feign/feignweb/pom.xml" />
       </list>
     </option>
   </component>

@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/sspringCloud_Feign/feiginclient1/feiginclient1.iml" filepath="$PROJECT_DIR$/sspringCloud_Feign/feiginclient1/feiginclient1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sspringCloud_Feign/feiginServer/feiginserver.iml" filepath="$PROJECT_DIR$/sspringCloud_Feign/feiginServer/feiginserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/sspringCloud_Feign/feignclient2/feignclient2.iml" filepath="$PROJECT_DIR$/sspringCloud_Feign/feignclient2/feignclient2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sspringCloud_Feign/feignweb/feignweb.iml" filepath="$PROJECT_DIR$/sspringCloud_Feign/feignweb/feignweb.iml" />
       <module fileurl="file://$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/ribbonclient1.iml" filepath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/ribbonclient1.iml" />
       <module fileurl="file://$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/ribbonclient2.iml" filepath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/ribbonclient2.iml" />
       <module fileurl="file://$PROJECT_DIR$/sspringCloud_Ribbon/ribbonserver/ribbonserver.iml" filepath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonserver/ribbonserver.iml" />

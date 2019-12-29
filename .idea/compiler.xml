@@ -12,15 +12,17 @@
         <module name="ribbonclient1" />
         <module name="feiginclient1" />
         <module name="ribbonweb" />
+        <module name="feignweb" />
         <module name="feiginserver" />
         <module name="feignclient2" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
+    <bytecodeTargetLevel target="8">
       <module name="eurekaone" target="1.8" />
       <module name="feiginclient1" target="1.8" />
       <module name="feiginserver" target="1.8" />
       <module name="feignclient2" target="1.8" />
+      <module name="feignweb" target="1.8" />
       <module name="ribbonclient1" target="1.8" />
       <module name="ribbonclient2" target="1.8" />
       <module name="ribbonserver" target="1.8" />
@@ -33,6 +35,7 @@
       <module name="feiginclient1" options="-parameters" />
       <module name="feiginserver" options="-parameters" />
       <module name="feignclient2" options="-parameters" />
+      <module name="feignweb" options="-parameters" />
       <module name="ribbonclient1" options="-parameters" />
       <module name="ribbonclient2" options="-parameters" />
       <module name="ribbonserver" options="-parameters" />

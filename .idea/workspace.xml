@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c2fd291-2ff9-415d-9341-ac8e24b3788c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/src/main/java/com/springcloud/test/ribbonclient1/TestParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/src/main/java/com/springcloud/test/ribbonclient1/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/src/main/java/com/springcloud/test/ribbonclient1/controller/TestParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/src/main/java/com/springcloud/test/ribbonclient2/TestParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/src/main/java/com/springcloud/test/ribbonclient2/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/src/main/java/com/springcloud/test/ribbonclient2/controller/TestParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonserver/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/java/com/springcloud/test/ribbonweb/controller/WebController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/java/com/springcloud/test/ribbonweb/dto/TestParam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Feign/feiginServer/src/main/java/com/springcloud/test/feiginserver/FeiginserverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Feign/feiginServer/src/main/java/com/springcloud/test/feiginserver/FeiginserverApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Feign/feiginclient1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Feign/feiginclient1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Feign/feignclient2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Feign/feignclient2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Feign/feignweb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Feign/feignweb/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/src/main/java/com/springcloud/test/ribbonclient1/Ribbonclient1Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/src/main/java/com/springcloud/test/ribbonclient1/Ribbonclient1Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/src/main/java/com/springcloud/test/ribbonclient2/Ribbonclient2Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/src/main/java/com/springcloud/test/ribbonclient2/Ribbonclient2Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient2/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonserver/src/main/java/com/springcloud/test/ribbonserver/RibbonserverApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonserver/src/main/java/com/springcloud/test/ribbonserver/RibbonserverApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonserver/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/java/com/springcloud/test/ribbonweb/RibbonwebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/java/com/springcloud/test/ribbonweb/RibbonwebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/resources/application.properties" beforeDir="false" />
-    </list>
+    <list default="true" id="3c2fd291-2ff9-415d-9341-ac8e24b3788c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/sspringCloud_Feign/feiginServer/target/" />
     <ignored path="$PROJECT_DIR$/sspringCloud_eureka/eurekaone/target/" />
     <ignored path="$PROJECT_DIR$/sspringCloud_Feign/feiginclient1/target/" />
@@ -112,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/java/com/springcloud/test/ribbonweb/RibbonwebApplication.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="319">
@@ -123,6 +89,18 @@
                 <element signature="e#336#337#0" expanded="true" />
                 <element signature="e#400#401#0" expanded="true" />
                 <element signature="e#441#442#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/java/com/springcloud/test/ribbonweb/controller/WebController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="30" column="85" selection-start-line="30" selection-start-column="85" selection-end-line="30" selection-end-column="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -217,10 +195,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="913" />
-    <option name="y" value="1183" />
-    <option name="width" value="2538" />
-    <option name="height" value="1044" />
+    <option name="x" value="828" />
+    <option name="y" value="793" />
+    <option name="width" value="3858" />
+    <option name="height" value="2108" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -706,19 +684,18 @@
       <option name="presentableId" value="Default" />
       <updated>1577606758744</updated>
       <workItem from="1577606760976" duration="449000" />
-      <workItem from="1577633566315" duration="3270000" />
+      <workItem from="1577633566315" duration="3419000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3719000" />
+    <option name="totallyTimeSpent" value="3868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2575" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14922403" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14922403" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -726,12 +703,12 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49980104" visible="true" weight="0.32942098" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49980104" weight="0.32942098" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.8396339" weight="0.09154929" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4994031" weight="0.3998435" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49900517" weight="0.3998435" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -739,7 +716,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50019896" side_tool="true" visible="true" weight="0.32942098" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5009948" side_tool="true" visible="true" weight="0.3998435" />
       <window_info anchor="right" id="Bean Validation" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -896,16 +873,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/java/com/springcloud/test/ribbonweb/controller/WebController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="30" column="85" selection-start-line="30" selection-start-column="85" selection-end-line="30" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sspringCloud_Ribbon/ribbonclient1/src/main/java/com/springcloud/test/ribbonclient1/controller/TestController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -1000,6 +967,16 @@
             <element signature="e#336#337#0" expanded="true" />
             <element signature="e#400#401#0" expanded="true" />
             <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sspringCloud_Ribbon/ribbonweb/src/main/java/com/springcloud/test/ribbonweb/controller/WebController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="85" selection-start-line="30" selection-start-column="85" selection-end-line="30" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
